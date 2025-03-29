@@ -166,6 +166,8 @@ Arecanut is one of the top-grown commercial crops in Karnataka, significantly im
 - Initial reliance on remote control.
 - Battery efficiency constraints in wireless mode.
 - Handling dense areca nut clusters may require refinements.
-
-
+- ## Images of the Chase Board
+-![Screenshot (74)](https://github.com/user-attachments/assets/838059a1-9b89-4b34-8aaa-417bb3b551d6)
+![Screenshot (76)](https://github.com/user-attachments/assets/94af6ddf-eb51-494f-86d2-5a331ee2e7c4)
+### File link :https://a360.co/3FWUw6I
 
